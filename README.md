@@ -12,6 +12,15 @@ This makes it easy to pick the correct logo without opening each file individual
 
 ---
 
+## How to Download (No GitHub Knowledge Needed)
+
+1. Click the green **Code** button at the top of this page.  
+2. Select **Download ZIP**.  
+3. Extract (unzip) the downloaded file on your computer.  
+4. Open the folders to access the logos you need.  
+
+---
+
 ## Folder Structure
 
 ```
@@ -44,11 +53,7 @@ This makes it easy to pick the correct logo without opening each file individual
 
 ## License
 
-Copyright © 2025 **Valiant Vineyards Inc.** All rights reserved.
-
-The logos, brand marks, and related design files in this repository are the exclusive property of **Valiant Vineyards Inc.** They may only be used for official Valiant Vineyards business and marketing purposes.  
-
-You may not alter, reproduce, redistribute, or use these files for any purpose unrelated to Valiant Vineyards without prior written permission from an authorized representative of the company.
+See the [LICENSE](LICENSE) file for usage details.
 
 ---
 
@@ -57,5 +62,5 @@ You may not alter, reproduce, redistribute, or use these files for any purpose u
 **Valiant Vineyards Inc.**  
 1500 W Main St  
 Vermillion, SD 57069  
-Phone: +1 605-624-4500  
+Phone: 605-624-4500  
 Email: [sherry@valiantvineyards.us](mailto:sherry@valiantvineyards.us)
